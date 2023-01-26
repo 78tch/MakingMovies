@@ -7,26 +7,24 @@ Garageband を操作するにあたって、マウスで操作するよりも、
 ### ３－３．ショートカットキー操作による録音再生のコントロール
 |キー|操作|ショートカットキー|KEY設定|
 |:--|:--|:--:|:--:|
-|KEY1|再生ヘッドを１小節戻す|,|,|
-|KEY2|再生ヘッドを１小節進める|.|.|
-|KEY3|カウントインの入／切|Shift + K|Shift + k|
-|KEY4|メトロノームの入／切|K|k|
+|KEY1|先頭へ|Return|Enter|
+|KEY2|再生ヘッドを１小節戻す|,|,|
+|KEY3|再生ヘッドを１小節進める|.|.|
+|KEY4|サイクル範囲の入／切|C|c|
 |KEY5|リージョン分割|Cmd + T|Win + t|
 |KEY6|削除|Delete|BackSpace|
 |KEY7|取消|Cmd + Z|Win + z|
 |KEY8|保存|Cmd + S|Win + s|
-|KEY9|先頭へ|Return|Enter|
-|KEY10|最後のリージョンの最後へ|Opt + Return|Alt + Enter|
-|KEY11|再生・停止|Space|Space|
-|KEY12|録音|R|r|
+|KEY9|録音|R|r|
+|KEY10|再生・停止|Space|Space|
+|KEY11|カウントインの入／切|Shift + K|Shift + k|
+|KEY12|メトロノームの入／切|K|k|
 |K1 Left|音量小||Volume(-)|
 |K1 Centre|ミュート|C|c|
 |K1 Right|音量大||Volume(+)|
 |K2 Left|トラック表示の縮小|Cmd + ←|Win + ←|
-|K2 Centre|サイクル範囲の入／切|C|c|
+|K2 Centre|ミュージックタイピングの表示／非表示|Cmd + K|Win + k|
 |K2 Right|トラック表示の拡大|Cmd + →|Win + →|
-|KEY|エディタパネルの表示|E|
-|KEY|ブラウザパネルの表示|F|
   
 「エディター」のクオンタイズを16分音符にしておきます。  
 ### ３－４．水平拡大表示：「Cmd + →」
